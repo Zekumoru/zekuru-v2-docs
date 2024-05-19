@@ -10,10 +10,12 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
+        <Heading as="h1" className="hero__title mb-2">
           {siteConfig.title}
+          <span></span>
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle mb-0.5">Translate seamlessly.</p>
+        <p>Effortless Discord translation bot for a global community.</p>
       </div>
     </header>
   );

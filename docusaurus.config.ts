@@ -5,7 +5,7 @@ import tailwindPlugin from './plugins/tailwind-plugin.cjs';
 
 const config: Config = {
   title: 'Zekuru-v2',
-  tagline: 'Powerful Discord translator bot',
+  tagline: 'Translate seamlessly.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
