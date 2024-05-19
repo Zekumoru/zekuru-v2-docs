@@ -16,8 +16,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  // organizationName: 'facebook', // Usually your GitHub org/user name.
+  // projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -41,7 +41,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/Zekumoru/zekuru-v2-docs/',
+          editUrl: 'https://github.com/Zekumoru/zekuru-v2-docs/blob/main/',
         },
         blog: false,
         theme: {
