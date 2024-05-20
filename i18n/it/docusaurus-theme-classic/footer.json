@@ -13,15 +13,15 @@
   },
   "link.item.label.Introduction": {
     "message": "Introduzione",
-    "description": "The label of footer link with label=Introduction linking to /Home/Introduction"
+    "description": "The label of footer link with label=Introduction linking to /home/introduction"
   },
   "link.item.label.Getting Started": {
     "message": "Guida Introduttiva",
-    "description": "The label of footer link with label=Getting Started linking to /Getting%20Started/Adding%20Zekuru-v2%20to%20your%20server"
+    "description": "The label of footer link with label=Getting Started linking to /getting-started/adding-to-server"
   },
   "link.item.label.Slash Commands": {
     "message": "Comandi Slash",
-    "description": "The label of footer link with label=Slash Commands linking to /Slash%20Commands/01%20sign-in"
+    "description": "The label of footer link with label=Slash Commands linking to /slash-commands/sign-in"
   },
   "link.item.label.Discord": {
     "message": "Discord",
