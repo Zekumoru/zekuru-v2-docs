@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/sign-out"
+sidebar_position: 2
 ---
 
 # /sign-out

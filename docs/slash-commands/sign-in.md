@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/sign-in"
+sidebar_position: 1
 ---
 
 # /sign-in

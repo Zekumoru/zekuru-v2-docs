@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/show-links"
+sidebar_position: 10
 ---
 
 # /show-channels

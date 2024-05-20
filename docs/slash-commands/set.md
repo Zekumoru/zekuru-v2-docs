@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/set"
+sidebar_position: 4
 ---
 
 # /set

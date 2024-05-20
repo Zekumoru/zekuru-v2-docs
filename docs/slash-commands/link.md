@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/link"
+sidebar_position: 6
 ---
 
 # /link

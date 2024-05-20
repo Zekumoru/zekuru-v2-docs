@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/unlink-channel"
+sidebar_position: 9
 ---
 
 # /unlink-channel

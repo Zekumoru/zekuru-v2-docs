@@ -1,5 +1,6 @@
 ---
 sidebar_label: "/usage"
+sidebar_position: 3
 ---
 
 # /usage
