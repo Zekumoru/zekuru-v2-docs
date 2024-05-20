@@ -1,0 +1,38 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Comunità",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Scopri di più",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Introduction": {
+    "message": "Introduzione",
+    "description": "The label of footer link with label=Introduction linking to /Home/Introduction"
+  },
+  "link.item.label.Getting Started": {
+    "message": "Guida Introduttiva",
+    "description": "The label of footer link with label=Getting Started linking to /Getting%20Started/Adding%20Zekuru-v2%20to%20your%20server"
+  },
+  "link.item.label.Slash Commands": {
+    "message": "Comandi Slash",
+    "description": "The label of footer link with label=Slash Commands linking to /Slash%20Commands/01%20sign-in"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/3Tg6YP6MXf"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/Zekumoru/zekuru-v2-docs"
+  },
+  "copyright": {
+    "message": "Copyright © 2024 Zekumoru. Documentazione realizzata con Docusaurus.",
+    "description": "The footer copyright"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docSidebar.category.Home": {
+    "message": "Home",
+    "description": "The label for category Home in sidebar docSidebar"
+  },
+  "sidebar.docSidebar.category.Getting Started": {
+    "message": "Guida Introduttiva",
+    "description": "The label for category Getting Started in sidebar docSidebar"
+  },
+  "sidebar.docSidebar.category.Slash Commands": {
+    "message": "Comandi Slash",
+    "description": "The label for category Slash Commands in sidebar docSidebar"
+  }
+}

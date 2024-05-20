@@ -4,6 +4,7 @@ import Layout from '@theme/Layout';
 import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
+import Translate from '@docusaurus/Translate';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -12,10 +13,15 @@ function HomepageHeader() {
       <div className="container">
         <Heading as="h1" className="hero__title mb-2">
           {siteConfig.title}
-          <span></span>
         </Heading>
-        <p className="hero__subtitle mb-0.5">Translate seamlessly.</p>
-        <p>Effortless Discord translation bot for a global community.</p>
+        <p className="hero__subtitle mb-0.5">
+          <Translate>Translate seamlessly.</Translate>
+        </p>
+        <p>
+          <Translate>
+            Effortless Discord translation bot for a global community.
+          </Translate>
+        </p>
       </div>
     </header>
   );

@@ -27,7 +27,7 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'it'],
   },
 
   plugins: [tailwindPlugin],
@@ -66,6 +66,10 @@ const config: Config = {
           sidebarId: 'docSidebar',
           position: 'left',
           label: 'Documentation',
+        },
+        {
+          type: 'localeDropdown',
+          position: 'left',
         },
         {
           href: 'https://github.com/Zekumoru/zekuru-v2-docs',
@@ -113,7 +117,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Zekuru-v2, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Zekumoru. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
