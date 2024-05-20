@@ -82,7 +82,15 @@ const config: Config = {
           items: [
             {
               label: 'Introduction',
-              to: '/intro',
+              to: '/Home/Introduction',
+            },
+            {
+              label: 'Getting Started',
+              to: '/Getting%20Started/Adding%20Zekuru-v2%20to%20your%20server',
+            },
+            {
+              label: 'Slash Commands',
+              to: '/Slash%20Commands/01%20sign-in',
             },
           ],
         },
