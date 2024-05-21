@@ -42,7 +42,7 @@ Al momento della stesura di questo documento, DeepL supporta 30 lingue:
 - FR (Francese)
 - HU (Ungherese)
 - ID (Indonesiano)
-- IT (Italiano) [Already included, can remove for brevity]
+- IT (Italiano)
 - JA (Giapponese)
 - KO (Coreano)
 - LI (Lituano)
