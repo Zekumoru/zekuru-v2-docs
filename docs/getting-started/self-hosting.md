@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Self-hosting refers to running the bot yourself on your own computer or server, instead of using an outside service or server. This way, you control your own resources. Resources refer to your CPU and RAM.
 
-**This is an advanced topic and I assume you already a little of this stuff like what Node.js is and what is a package manager like yarn.**
+**This is an advanced topic and I assume you already a little of this stuff like what Node.js is and what is a process manager like yarn.**
 
 ## Prerequisites
 
