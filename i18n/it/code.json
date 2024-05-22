@@ -291,5 +291,11 @@
   "theme.unlistedContent.message": {
     "message": "Questa pagina non è in elenco. I motori di ricerca non lo indicheranno e solo gli utenti con collegamento diretto possono accedervi.",
     "description": "The unlisted content banner message"
+  },
+  "Add the bot to your server": {
+    "message": "Aggiungi il bot al tuo server"
+  },
+  "Add Bot": {
+    "message": "Aggiungi Bot"
   }
 }
